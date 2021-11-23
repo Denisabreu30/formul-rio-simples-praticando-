@@ -1,0 +1,11 @@
+body{
+    background-color: rgba(29, 12, 105, 0.733);
+    font-family: Arial, sans-serif;
+}
+
+.pure-form {
+    width: 100%;
+    display:   flex;
+    justify-content: center;
+    margin-top: 150px;
+}
